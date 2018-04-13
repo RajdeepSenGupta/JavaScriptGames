@@ -34,7 +34,7 @@ function draw() {
                 score++;
             }
 
-            if (score == 15) {
+            if (score % 15 == 0) {
                 score++;
                 this.speed++;
                 obstacles = [];

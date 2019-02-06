@@ -1,0 +1,5 @@
+1. This is a 2 player's game.
+2. The goal is to score as many point as a player can.
+3. To score a point, a player must keep the ball inside the play area by deflecting it using the paddle.
+4. W and S will move left paddle
+5. I and K will move right paddle
